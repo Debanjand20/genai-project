@@ -310,4 +310,10 @@ if st.session_state.applications:
 else:
     st.info("No applications submitted in this session yet.")
 
+
+
+
+
+
+    
 # --- END OF FILE 1_📄_Apply_Now.py ---
