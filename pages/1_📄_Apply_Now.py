@@ -103,7 +103,7 @@ with st.form("application_form"):
 
     # Optional: Allow uploading other relevant documents
     uploaded_other_docs = st.file_uploader(
-        "Upload Other Supporting Documents (Optional)",
+        "Upload Entrance Rank Card *",
         type=ALLOWED_TYPES,
         accept_multiple_files=True, # Allow more than one optional doc
         key="upload_other",
