@@ -1,0 +1,6 @@
+Eligibility Criteria:
+- Course: B.Tech Computer Science
+- Minimum _PERCENTAGE_: 75% in 12th Grade (Maths & Physics required).
+- Course: MBA
+- Minimum_PERCENTAGE_: 60% in Bachelor's Degree. Work experience preferred.
+- General: Must have passed qualifying exams from a recognized board/university.

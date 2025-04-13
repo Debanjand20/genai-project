@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+google-generativeai>=0.3.2  # Gemini SDK
+python-dotenv>=1.0.0         # For .env and works with st.secrets
+pandas>=1.5.0
+langchain>=0.1.0             # For RAG, text splitting, etc.
+langchain-community          # Required for FAISS, etc.
+# Removed OpenAI-specific packages
+# langchain-openai>=0.0.2   → Removed since we’re not using OpenAI
